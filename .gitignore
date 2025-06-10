@@ -1,5 +1,7 @@
 # Ignore .env file (contains secrets)
 .env
+.env.local 
+
 # Logs
 logs
 *.log
